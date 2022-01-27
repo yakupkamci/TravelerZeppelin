@@ -1,0 +1,9 @@
+C:\Users\Y.KAMCI\Desktop\pro_lab2_proje_1\pro_lab2_proje_1\bin\Debug\pro_lab2_proje_1.exe.config
+C:\Users\Y.KAMCI\Desktop\pro_lab2_proje_1\pro_lab2_proje_1\bin\Debug\pro_lab2_proje_1.exe
+C:\Users\Y.KAMCI\Desktop\pro_lab2_proje_1\pro_lab2_proje_1\bin\Debug\pro_lab2_proje_1.pdb
+C:\Users\Y.KAMCI\Desktop\pro_lab2_proje_1\pro_lab2_proje_1\obj\Debug\pro_lab2_proje_1.csprojResolveAssemblyReference.cache
+C:\Users\Y.KAMCI\Desktop\pro_lab2_proje_1\pro_lab2_proje_1\obj\Debug\pro_lab2_proje_1.Form1.resources
+C:\Users\Y.KAMCI\Desktop\pro_lab2_proje_1\pro_lab2_proje_1\obj\Debug\pro_lab2_proje_1.Properties.Resources.resources
+C:\Users\Y.KAMCI\Desktop\pro_lab2_proje_1\pro_lab2_proje_1\obj\Debug\pro_lab2_proje_1.csproj.GenerateResource.Cache
+C:\Users\Y.KAMCI\Desktop\pro_lab2_proje_1\pro_lab2_proje_1\obj\Debug\pro_lab2_proje_1.exe
+C:\Users\Y.KAMCI\Desktop\pro_lab2_proje_1\pro_lab2_proje_1\obj\Debug\pro_lab2_proje_1.pdb
